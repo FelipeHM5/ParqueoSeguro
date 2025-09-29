@@ -9,12 +9,13 @@
 ---
 
 ## 📂 Estructura del repositorio
-
+```
 ParqueoSeguro/
 ├── app-movil/ # Proyecto móvil (React Native)
 ├── panel-web/ # Proyecto web (React + Vite/Next.js)
 ├── api/ # Proyecto backend (Java Spring Boot)
 └── README.md
+```
 
 
 ---
