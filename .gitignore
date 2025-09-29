@@ -1,0 +1,46 @@
+# =========================
+# Global
+# =========================
+.DS_Store
+*.log
+.env
+*.env
+.idea/
+.vscode/
+
+# =========================
+# Node.js / React / React Native
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+expo-debug.log
+.expo/
+.expo-shared/
+dist/
+build/
+
+# React Native specific
+android/
+ios/
+*.keystore
+*.jks
+
+# =========================
+# Java / Spring Boot
+# =========================
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+
+# =========================
+# Firebase Credentials
+# =========================
+firebase-service-account.json
+firebase.js
