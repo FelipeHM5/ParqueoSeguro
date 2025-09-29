@@ -44,3 +44,4 @@ target/
 # =========================
 firebase-service-account.json
 firebase.js
+AuthController.java
