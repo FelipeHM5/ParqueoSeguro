@@ -29,13 +29,13 @@ npm start
 ```
 
 ### 2. Panel Web (panel-web/)
-```
+```bash
 cd panel-web
 npm install
 npm run dev
 ```
 3. API (api/)
-```
+```bash
 cd api
 ./mvnw spring-boot:run
 ```
